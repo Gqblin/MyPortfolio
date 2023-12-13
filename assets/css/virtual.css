@@ -69,7 +69,6 @@
 body {
     font-family: 'Quicksand', sans-serif;
     font-weight: 400;
-    background-color: #2C2D34;
 }
 
 .fw-bold {
@@ -279,7 +278,7 @@ a:hover, a:active {
     float: left;
     margin: 0 !important;
     padding: 5px;
-    background-color: #fff;
+    background-color: black;
     border-radius: 12px 0 0 12px;
     box-shadow: -3px 2px 9px rgba(50, 50, 50, 0.2);
 }
