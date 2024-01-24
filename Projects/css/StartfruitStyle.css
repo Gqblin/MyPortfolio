@@ -463,6 +463,10 @@ a.icon {
   grid-template-columns: auto auto auto auto;
 }
 
+.wrapper div{
+  margin: 20px;
+}
+
 .wrapper h2{
   color: black;
 }
