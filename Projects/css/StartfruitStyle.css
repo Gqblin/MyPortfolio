@@ -471,6 +471,11 @@ a.icon {
   color: black;
 }
 
+.wrapper a{
+  color: #4882ff;
+  text-decoration: underline;
+}
+
 #gamevideo{
   max-width: 750px;
 }
