@@ -163,7 +163,7 @@ nav a {
   transition: all 0.3s ease;
   -webkit-transition: all 0.3s ease;
   -moz-transition: all 0.3s ease;
-  background-color: #ffc0f7;
+  background-color: #ffccf8;
 }
 
 .brand {
@@ -405,8 +405,8 @@ a.icon {
 }
 
 #header .header-thumb {
-  background: #ffc2f2;
-  border: 10px solid #e382f0;
+  background: #ffccf8;
+  border: 10px solid #df88eb;
   padding: 62px 20px 62px 20px;
 }
 
