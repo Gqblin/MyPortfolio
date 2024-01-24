@@ -206,7 +206,7 @@ nav ul.right {
 #nav-menu a {
   font-weight: 300;
   font-size: 26px;
-  color: #fc96c5;
+  color: #ffffff;
   text-transform: uppercase;
   letter-spacing: 0.3rem;
 }
@@ -228,7 +228,7 @@ nav ul.right {
   height: 70px;
   max-height: 70px;
   margin: 0;
-  background: #ffffff;
+  background: #ffbbff;
 }
 
 .sticky nav.transparent .navbar {
@@ -404,8 +404,8 @@ a.icon {
 }
 
 #header .header-thumb {
-  background: #ffaaec;
-  border: 10px solid #cf65dd;
+  background: #ffc2f2;
+  border: 10px solid #e382f0;
   padding: 62px 20px 62px 20px;
 }
 
