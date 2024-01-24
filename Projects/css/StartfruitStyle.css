@@ -206,7 +206,7 @@ nav ul.right {
 #nav-menu a {
   font-weight: 300;
   font-size: 26px;
-  color: #ff96ff;
+  color: #fc96c5;
   text-transform: uppercase;
   letter-spacing: 0.3rem;
 }
@@ -404,8 +404,8 @@ a.icon {
 }
 
 #header .header-thumb {
-  background: #ffffff;
-  border: 10px solid #f9f9f9;
+  background: #ffaaec;
+  border: 10px solid #cf65dd;
   padding: 62px 20px 62px 20px;
 }
 
