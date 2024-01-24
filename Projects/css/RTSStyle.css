@@ -159,7 +159,7 @@ nav {
   transition: all 0.3s ease;
   -webkit-transition: all 0.3s ease;
   -moz-transition: all 0.3s ease;
-  background-color: #ffccf8;
+  background-color: #5c0000;
 }
 
 .brand {
@@ -172,7 +172,7 @@ nav {
   letter-spacing: 0.3rem;
 }
 .brand a {
-  color: #ffffff;
+  color: #dd976e;
   font-size: 24px;
   font-weight: 700;
   opacity: 1;
