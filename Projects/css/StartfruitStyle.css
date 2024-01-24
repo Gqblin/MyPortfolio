@@ -464,8 +464,12 @@ a.icon {
   font-family: Arial, Helvetica, sans-serif;
 }
 
+.wrapper h2{
+  color: black;
+}
+
 #gamevideo{
-  max-width: 400px;
+  max-width: 750px;
 }
 
 
