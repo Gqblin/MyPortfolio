@@ -150,10 +150,6 @@ nav {
   -moz-transition: all 0.3s ease;
 }
 
-nav a {
-  color: #ffffff;
-}
-
 .navbar {
   background: transparent;
   height: 94px;
@@ -176,7 +172,7 @@ nav a {
   letter-spacing: 0.3rem;
 }
 .brand a {
-  color: #333;
+  color: #ffffff;
   font-size: 24px;
   font-weight: 700;
   opacity: 1;
