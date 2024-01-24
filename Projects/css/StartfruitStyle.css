@@ -9,7 +9,7 @@ http://www.tooplate.com/view/2082-pure-mix
 /* Body 
 ------------------------------------- */
 body {
-		background: #ffffff;
+		background: #c5acff;
     font-family: 'Source Sans Pro', sans-serif;
     font-style: normal;
     font-weight: 300;
@@ -461,6 +461,7 @@ a.icon {
   display: grid;
   align-items: center;
   grid-template-columns: auto auto auto auto;
+  background-color: #c90808;
 }
 
 .wrapper div{
