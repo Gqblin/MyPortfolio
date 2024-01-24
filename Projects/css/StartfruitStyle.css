@@ -455,6 +455,10 @@ a.icon {
   padding-bottom: 4rem;
 }
 
+#gamevideo{
+  max-width: 320px;
+}
+
 /* #portfolio img {
   width: 100%;
 }
