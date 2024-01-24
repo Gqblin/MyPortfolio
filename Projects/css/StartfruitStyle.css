@@ -9,7 +9,7 @@ http://www.tooplate.com/view/2082-pure-mix
 /* Body 
 ------------------------------------- */
 body {
-		background: #ffffff;
+		background: #ffadea;
     font-family: 'Source Sans Pro', sans-serif;
     font-style: normal;
     font-weight: 300;
@@ -228,7 +228,7 @@ nav ul.right {
   height: 70px;
   max-height: 70px;
   margin: 0;
-  background: #ffbbff;
+  background: #ffffff;
 }
 
 .sticky nav.transparent .navbar {
