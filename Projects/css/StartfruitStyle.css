@@ -428,7 +428,7 @@ a.icon {
 .header-one {
   background: url('../images/Starfruit.PNG') no-repeat;
   height: 60vh !important;
-  min-height: 700px;
+  min-height: 520px;
   padding-top: 150px !important;
 }
 .header-two {
