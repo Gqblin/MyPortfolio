@@ -461,11 +461,12 @@ a.icon {
   display: grid;
   align-items: center;
   grid-template-columns: auto auto auto auto;
-  background-color: #c90808;
+  background-color: #ffccf8;
+  border: 10px solid #df88eb;
 }
 
 .wrapper div{
-  margin: 20px;
+  margin: 30px;
 }
 
 .wrapper h2{
