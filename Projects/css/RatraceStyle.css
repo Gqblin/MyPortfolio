@@ -173,7 +173,7 @@ nav {
   letter-spacing: 0.3rem;
 }
 .brand a {
-  color: #ffffff;
+  color: #313131;
   font-size: 24px;
   font-weight: 700;
   opacity: 1;
@@ -204,7 +204,7 @@ nav ul.right {
 #nav-menu a {
   font-weight: 300;
   font-size: 26px;
-  color: #ffffff;
+  color: #ffc037;
   text-transform: uppercase;
   letter-spacing: 0.3rem;
 }
@@ -402,7 +402,7 @@ a.icon {
 }
 
 #header h1{
-  color: #ffffff;
+  color: #ffc037;
 }
 
 #header .header-thumb {
