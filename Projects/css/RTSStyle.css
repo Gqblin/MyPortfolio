@@ -160,6 +160,7 @@ nav {
   -webkit-transition: all 0.3s ease;
   -moz-transition: all 0.3s ease;
   background-color: #301300;
+  border-bottom: 6px solid #1b0b00;
 }
 
 .brand {
@@ -446,7 +447,7 @@ a.icon {
 }
 
 /* Portfolio section styles
-/* ========================================== */
+/* ============================================================================================================================================================================================================== */
 /* #portfolio {
   display: grid;
   align-items: center;
@@ -461,18 +462,20 @@ a.icon {
   display: grid;
   align-items: center;
   grid-template-columns: auto auto auto auto;
+  background-color: #d47a46;;
+  border: 10px solid #3a0000;
 }
 
 .wrapper div{
-  margin: 20px;
+  margin: 30px;
 }
 
 .wrapper h2{
-  color: rgb(255, 243, 219);
+  color: #3a0000;
 }
 
 .wrapper p{
-  color: #ffe4d3;
+  color: #3a0000;
 }
 
 .wrapper a{
