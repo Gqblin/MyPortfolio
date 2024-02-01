@@ -9,7 +9,7 @@ http://www.tooplate.com/view/2082-pure-mix
 /* Body 
 ------------------------------------- */
 body {
-		background: #005f10;
+		background: #2470ff;
     font-family: 'Source Sans Pro', sans-serif;
     font-style: normal;
     font-weight: 300;
@@ -133,7 +133,7 @@ img {
 
 
 /* navigation styles
-/* ========================================== */
+/* ========================================================================================================================================================================================================================================== */
 .nav-container,
 nav {
   overflow: visible;
@@ -159,8 +159,8 @@ nav {
   transition: all 0.3s ease;
   -webkit-transition: all 0.3s ease;
   -moz-transition: all 0.3s ease;
-  background-color: #005f10;
-  border-bottom: 6px solid #810000;
+  background-color: #2470ff;
+  border-bottom: 6px solid #383838;
 }
 
 .brand {
@@ -173,7 +173,7 @@ nav {
   letter-spacing: 0.3rem;
 }
 .brand a {
-  color: #810000;
+  color: #ffffff;
   font-size: 24px;
   font-weight: 700;
   opacity: 1;
@@ -204,7 +204,7 @@ nav ul.right {
 #nav-menu a {
   font-weight: 300;
   font-size: 26px;
-  color: #ffffff;
+  color: #ffc037;
   text-transform: uppercase;
   letter-spacing: 0.3rem;
 }
@@ -391,7 +391,7 @@ a.icon {
 }
 
 /* header section styles
-/* ========================================== */
+/* ========================================================================================================================================================================================================================================== */
 #header {
   -webkit-background-size: cover;
   background-size: cover;
@@ -402,12 +402,12 @@ a.icon {
 }
 
 #header h1{
-  color: #380000;
+  color: #ffc037;
 }
 
 #header .header-thumb {
-  background: #005f10;
-  border: 10px solid #810000;
+  background: #2470ff;
+  border: 10px solid #383838;
   padding: 62px 20px 62px 20px;
 }
 
@@ -428,13 +428,13 @@ a.icon {
 }
 
 .header-one {
-  background: url('../images/ChristmasArena.PNG') no-repeat;
+  background: url('../images/Godot.png') no-repeat;
   height: 75vh !important;
   min-height: 520px;
   padding-top: 150px !important;
 }
 .header-two {
-  background: url('../images/ChristmasArena.PNG') no-repeat;
+  background: url('../images/Godot.png') no-repeat;
 }
 .header-three {
   background: url('../images/header-three-bg.jpg') no-repeat;
@@ -447,7 +447,14 @@ a.icon {
 }
 
 /* Portfolio section styles
-/* ============================================================================================================================================================================================================== */
+/* ========================================================================================================================================================================================================================================== */
+/* #portfolio {
+  display: grid;
+  align-items: center;
+  grid-template-columns: 1fr 1fr 1fr;
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+} */
 
 .wrapper{
   margin: 100px;
@@ -455,8 +462,8 @@ a.icon {
   display: grid;
   align-items: center;
   grid-template-columns: auto auto auto auto;
-  background-color: #005f10;;
-  border: 10px solid #810000;
+  background-color: #2470ff;
+  border: 10px solid #383838;
 }
 
 .wrapper div{
@@ -464,20 +471,20 @@ a.icon {
 }
 
 .wrapper h2{
-  color: #3a0000;
+  color: black;
 }
 
 .wrapper p{
-  color: #3a0000;
+  color: #1f1f1f;
 }
 
 .wrapper a{
-  color: #ffcd29;
+  color: #4882ff;
   text-decoration: underline;
 }
 
 #gamevideo{
-  max-width: 300px;
+  max-width: 750px;
 }
 
 
