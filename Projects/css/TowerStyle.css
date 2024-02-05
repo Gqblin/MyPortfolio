@@ -9,7 +9,7 @@ http://www.tooplate.com/view/2082-pure-mix
 /* Body 
 ------------------------------------- */
 body {
-		background: #2470ff;
+		background: #3b80ff;
     font-family: 'Source Sans Pro', sans-serif;
     font-style: normal;
     font-weight: 300;
@@ -159,8 +159,8 @@ nav {
   transition: all 0.3s ease;
   -webkit-transition: all 0.3s ease;
   -moz-transition: all 0.3s ease;
-  background-color: #2470ff;
-  border-bottom: 6px solid #383838;
+  background-color: #3b80ff;
+  border-bottom: 6px solid #1e40ff;
 }
 
 .brand {
@@ -406,8 +406,8 @@ a.icon {
 }
 
 #header .header-thumb {
-  background: #2470ff;
-  border: 10px solid #383838;
+  background: #3b80ff;
+  border: 10px solid #1e40ff;
   padding: 62px 20px 62px 20px;
 }
 
@@ -462,8 +462,8 @@ a.icon {
   display: grid;
   align-items: center;
   grid-template-columns: auto auto auto auto;
-  background-color: #2470ff;
-  border: 10px solid #383838;
+  background-color: #3b80ff;
+  border: 10px solid #1e40ff;
 }
 
 .wrapper div{
