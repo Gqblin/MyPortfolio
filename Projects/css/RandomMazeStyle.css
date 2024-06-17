@@ -159,8 +159,8 @@ nav {
   transition: all 0.3s ease;
   -webkit-transition: all 0.3s ease;
   -moz-transition: all 0.3s ease;
-  background-color: #301300;
-  border-bottom: 6px solid #1b0b00;
+  background-color: #505050;
+  border-bottom: 6px solid #000000;
 }
 
 .brand {
@@ -173,7 +173,7 @@ nav {
   letter-spacing: 0.3rem;
 }
 .brand a {
-  color: #424242;
+  color: #000000;
   font-size: 24px;
   font-weight: 700;
   opacity: 1;
@@ -462,8 +462,8 @@ a.icon {
   display: grid;
   align-items: center;
   grid-template-columns: auto auto auto auto;
-  background-color: #3a3a3a;;
-  border: 10px solid #ecebff;
+  background-color: #000000;;
+  border: 10px solid #3a3a3a;
 }
 
 .wrapper div{
