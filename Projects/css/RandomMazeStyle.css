@@ -173,7 +173,7 @@ nav {
   letter-spacing: 0.3rem;
 }
 .brand a {
-  color: #d47a46;
+  color: #424242;
   font-size: 24px;
   font-weight: 700;
   opacity: 1;
@@ -406,8 +406,8 @@ a.icon {
 }
 
 #header .header-thumb {
-  background: #d47a46;
-  border: 10px solid #3a0000;
+  background: #e4e4e4;
+  border: 10px solid #252525;
   padding: 62px 20px 62px 20px;
 }
 
@@ -462,8 +462,8 @@ a.icon {
   display: grid;
   align-items: center;
   grid-template-columns: auto auto auto auto;
-  background-color: #d47a46;;
-  border: 10px solid #1b0b00;
+  background-color: #3a3a3a;;
+  border: 10px solid #ecebff;
 }
 
 .wrapper div{
@@ -471,15 +471,15 @@ a.icon {
 }
 
 .wrapper h2{
-  color: #3a0000;
+  color: #000000;
 }
 
 .wrapper p{
-  color: #3a0000;
+  color: #3a3a3a;
 }
 
 .wrapper a{
-  color: #ffcd29;
+  color: #3a3a3a;
   text-decoration: underline;
 }
 
