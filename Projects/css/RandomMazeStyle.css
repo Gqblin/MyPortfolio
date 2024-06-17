@@ -428,13 +428,13 @@ a.icon {
 }
 
 .header-one {
-  background: url('../images/rts.png') no-repeat;
+  background: url('../images/maze.PNG') no-repeat;
   height: 75vh !important;
   min-height: 520px;
   padding-top: 150px !important;
 }
 .header-two {
-  background: url('../images/rts.png') no-repeat;
+  background: url('../images/maze.PNG') no-repeat;
 }
 .header-three {
   background: url('../images/header-three-bg.jpg') no-repeat;
