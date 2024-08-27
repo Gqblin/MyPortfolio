@@ -90,22 +90,20 @@ http://www.tooplate.com/view/2082-pure-mix
 ================================================== -->
 <div class="wrapper">
    <div class="text-box">
-      <h2>About Project</h2>
-      <p>"RTS" is as the title says, a real time stragety game. In this game there are 2 teams, which both have a base buidling (the nexus), which they need to protect from the other team. players can build barracks to train troops to attack the other team. there are also defence towers which the player can build to defend itself from other troops. the team that manages to destroy the other team's nexus, wins the game!<br></p>
-      <h2>About Project</h2>
-      <p>This project is made by a bigger group of students (17 students) from the Media Collage Amsterdam and Grafisch Lyceum Utrecht. In this project students would learn more about how to work in a smaller team (yet bigger than the normal teams at school) using scrum. We also used Unreal Engine instead of Unity, which we normally use in school. I was one of the developers on this project and was mainly responsible for the barracks. The project was about 10 weeks long</p>
+      <h2>about project</h2>
+      <p>For an assesment, I had to make a perfect maze generator using a algorithm. A perfect maze is a maze where you would be able to reach every place, has no loops, and has only one correct way to the exit. in this "game" you can create mazes of 10x10 to 250x250 big. you can also watch how the maze is generated if you want<br></p>
    </div>
    <div>
-      <img id="gameImage" src="images/RTSMap.png">
+      <img id="gameImage" src="">
    </div>
 </div>
 
 <div class="code">
    <div class="text-box">
       <h2>System</h2>
-      <p>At the start of this project I had to think about how I was going to build the system. In the game players have to be able to pour different ingredients into the couldron, pour that into a flask and serve it to the client. I had to think of a way where I don't have to make all type of refrences to objects etc because that would get messy pretty fast. Eventually I desided to use enums. All ingredients and decorations have thair own ingredienttype wich will be put into the list in the couldron and flask. this way I don't have to make refrences and I can easily compare the flask list with the client's order list to look of the order is made correclty.<br></p>
-      <h2>About Project</h2>
-      <p>This is an older school project. The goal of the project was to build a simple 3D or 2D night racer. The project was about 6 weeks long and our team consisted of 4 people (2 devs and 2 artists). As a dev on this project, I was mainly responible for the steering mechanic and the power ups.</p>
+      <p>the algorithm I desided to use for this project, was the backtracking algorithm. This is probably to most well known algorithm for mazes. This algorithm picks a random neighbour cell of the current cell and will remove the wall between the two, creating a path. When all neighbour cells are already exposed, the algorithm goes back the path it came till it finds a neighbour cell that is not yet visited and exposed.<br></p>
+      <h2>code</h2>
+      <p>The code shown here marks the current cell as visited, so it wont create any loops. when done that, it removes the wall between the current cell and his neighbour cells. After that it says to get a new random unvisited neighbour. when it finds one, it will continue, if not, it will go back the path it followd to it's current location, looking for other unvisited cells. When it finds an unvisited cell somewhere else, it will continue creating a path from that location.</p>
    </div>
    <div>
       <img src="images/Code/MazeGen.PNG">

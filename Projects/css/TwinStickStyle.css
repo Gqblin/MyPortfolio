@@ -493,8 +493,24 @@ a.icon {
   display: grid;
   align-items: center;
   grid-template-columns: auto auto auto auto;
-  background-color: #ffccf8;
-  border: 10px solid #df88eb;
+  background-color: #720000;
+  border: 10px solid #550000;
+}
+
+.code div{
+  margin:30px;
+}
+
+.code h2{
+  color: black;
+}
+
+.code p{
+  color: #1f1f1f;
+}
+
+.code image{
+  max-width: 600px;
 }
 
 /* #portfolio img {
