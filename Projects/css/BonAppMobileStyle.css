@@ -461,7 +461,7 @@ a.icon {
   display: grid;
   align-items: center;
   grid-template-columns: auto auto auto auto;
-  background-color: #be9c29;
+  background-color: #b16f0c;
   border: 10px solid #d33f25;
 }
 
@@ -470,11 +470,11 @@ a.icon {
 }
 
 .wrapper h2{
-  color: rgb(255, 243, 219);
+  color: rgb(0, 0, 0);
 }
 
 .wrapper p{
-  color: #ffe4d3;
+  color: #111111;
 }
 
 .wrapper a{
@@ -492,10 +492,25 @@ a.icon {
   display: grid;
   align-items: center;
   grid-template-columns: auto auto auto auto;
-  background-color: #be9c29;
+  background-color: #b16f0c;
   border: 10px solid #d33f25;
 }
 
+.code div{
+  margin:30px;
+}
+
+.code h2{
+  color: black;
+}
+
+.code p{
+  color: #1f1f1f;
+}
+
+.code image{
+  max-width: 600px;
+}
 
 /* #portfolio img {
   width: 100%;
