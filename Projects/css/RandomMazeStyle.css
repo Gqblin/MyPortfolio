@@ -475,11 +475,11 @@ a.icon {
 }
 
 .wrapper p{
-  color: #3a3a3a;
+  color: #000000;
 }
 
 .wrapper a{
-  color: #3a3a3a;
+  color: #e0e0e0;
   text-decoration: underline;
 }
 
@@ -495,6 +495,22 @@ a.icon {
   grid-template-columns: auto auto auto auto;
   background-color: #3a3a3a;
   border: 10px solid #000000;
+}
+
+.code div{
+  margin:30px;
+}
+
+.code h2{
+  color: black;
+}
+
+.code p{
+  color: #1f1f1f;
+}
+
+.code image{
+  max-width: 600px;
 }
 
 /* #portfolio img {
