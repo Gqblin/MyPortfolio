@@ -513,8 +513,12 @@ a.icon {
   max-width: 450px;
 }
 
-#CodeSnapped{
+#Screen{
   width: 500px;
+}
+
+#CodeSnapped{
+  width: 600px;
 }
 
 /* #portfolio img {
