@@ -502,11 +502,11 @@ a.icon {
 }
 
 .code h2{
-  color: black;
+  color: rgb(255, 255, 255);
 }
 
 .code p{
-  color: #1f1f1f;
+  color: #ffffff;
 }
 
 .code image{
